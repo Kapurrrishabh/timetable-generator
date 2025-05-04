@@ -1,0 +1,7 @@
+id,name,type,capacity,available_days
+R1,Room-101,Classroom,40,"1,2,3,4,5"
+R2,Room-102,Classroom,40,"1,2,3,4,5"
+LH1,Lecture-Hall-1,Lecture Hall,100,"1,2,3,4,5"
+T1,Tutorial-1,Tutorial Room,30,"1,2,3,4,5"
+L1,Lab-1,Lab,40,"1,2,3,4,5"
+L2,Lab-2,Lab,40,"1,2,3,4,5"

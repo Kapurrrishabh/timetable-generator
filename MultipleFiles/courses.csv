@@ -1,0 +1,9 @@
+id,name,department,semester,hours_per_week,is_lab
+1,Calculus,Mathematics,1,4,0
+2,Mechanics,Physics,1,4,0
+3,Organic Chemistry,Chemistry,1,4,0
+4,Programming,Computer Science,1,4,0
+5,Digital Circuits,Electronics,1,4,0
+6,Physics Lab,Physics,1,2,1
+7,Chemistry Lab,Chemistry,1,2,1
+8,Programming Lab,Computer Science,1,2,1

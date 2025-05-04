@@ -1,0 +1,6 @@
+id,name,department,max_hours_per_week,available_days
+1,Dr. Sharma,Mathematics,16,"1,2,3,4,5"
+2,Dr. Mehta,Physics,16,"1,2,3,4,5"
+3,Dr. Reddy,Chemistry,16,"1,2,3,4,5"
+4,Dr. Singh,Computer Science,16,"1,2,3,4,5"
+5,Dr. Patel,Electronics,16,"1,2,3,4,5"
